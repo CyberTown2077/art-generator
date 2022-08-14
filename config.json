@@ -1,26 +1,118 @@
 {
   "layers": [
     {
-      "name": "Background",
-      "values": ["Blue", "Orange", "Purple", "Red", "Yellow"],
+      "name": "ADS_XYZ",
+      "values": ["ADS_XYZ", "Orange", "Purple", "Red", "Yellow"],
       "trait_path": "./trait-layers/backgrounds",
       "filename": ["blue", "orange", "purple", "red", "yellow"],
       "weights": [20,20,20,20,20]
     },
     {
-      "name": "Foreground",
+      "name": "SIDE Z ROOF",
       "values": ["Python Logo", "Python Logo 2", "Python Logo 3", "Python Logo 4", "Python Logo 5"],
       "trait_path": "./trait-layers/foreground",
       "filename": ["logo", "logo", "logo", "logo", "logo"],
       "weights": [20,20,20,20,20]
     },
     {
-      "name": "Branding",
+      "name": "WINDOW OVERLAY X",
+      "values": ["A Name", "Another Name"],
+      "trait_path": "./trait-layers/text",
+      "filename": ["text", "text"],
+      "weights": [50, 50]
+    },
+    {
+      "name": "WINDOW X",
+      "values": ["A Name", "Another Name"],
+      "trait_path": "./trait-layers/text",
+      "filename": ["text", "text"],
+      "weights": [50, 50]
+    },
+    {
+      "name": "SIDE X TOP",
+      "values": ["A Name", "Another Name"],
+      "trait_path": "./trait-layers/text",
+      "filename": ["text", "text"],
+      "weights": [50, 50]
+    },
+    {
+      "name": "SIDE X WINDOW BASE",
+      "values": ["A Name", "Another Name"],
+      "trait_path": "./trait-layers/text",
+      "filename": ["text", "text"],
+      "weights": [50, 50]
+    },
+    {
+      "name": "SIDE X",
+      "values": ["A Name", "Another Name"],
+      "trait_path": "./trait-layers/text",
+      "filename": ["text", "text"],
+      "weights": [50, 50]
+    },
+    {
+      "name": "SIDE Y SPECIAL",
+      "values": ["A Name", "Another Name"],
+      "trait_path": "./trait-layers/text",
+      "filename": ["text", "text"],
+      "weights": [50, 50]
+    },
+    {
+      "name": "SIDE Y TOP",
+      "values": ["A Name", "Another Name"],
+      "trait_path": "./trait-layers/text",
+      "filename": ["text", "text"],
+      "weights": [50, 50]
+    },
+    {
+      "name": "SIDE Y WINDOWS",
+      "values": ["A Name", "Another Name"],
+      "trait_path": "./trait-layers/text",
+      "filename": ["text", "text"],
+      "weights": [50, 50]
+    },
+    {
+      "name": "SIDE Y BALCONY",
+      "values": ["A Name", "Another Name"],
+      "trait_path": "./trait-layers/text",
+      "filename": ["text", "text"],
+      "weights": [50, 50]
+    },
+    {
+      "name": "SIDE Y FLUFF",
+      "values": ["A Name", "Another Name"],
+      "trait_path": "./trait-layers/text",
+      "filename": ["text", "text"],
+      "weights": [50, 50]
+    },
+    {
+      "name": "SIDE Y BACKDOOR",
+      "values": ["A Name", "Another Name"],
+      "trait_path": "./trait-layers/text",
+      "filename": ["text", "text"],
+      "weights": [50, 50]
+    },
+    {
+      "name": "SIDE Y",
+      "values": ["A Name", "Another Name"],
+      "trait_path": "./trait-layers/text",
+      "filename": ["text", "text"],
+      "weights": [50, 50]
+    },
+    {
+      "name": "BASE",
+      "values": ["A Name", "Another Name"],
+      "trait_path": "./trait-layers/text",
+      "filename": ["text", "text"],
+      "weights": [50, 50]
+    },
+    {
+      "name": "BACKGROUND",
       "values": ["A Name", "Another Name"],
       "trait_path": "./trait-layers/text",
       "filename": ["text", "text"],
       "weights": [50, 50]
     }
+
   ],
   "incompatibilities": [
     {
