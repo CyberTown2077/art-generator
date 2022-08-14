@@ -5,20 +5,12 @@
     "description": "This is a description for this NFT series.",
     "attributes": [
         {
-            "trait_type": "ADS_XYZ",
-            "value": "SIDE_X_ADS_3"
-        },
-        {
             "trait_type": "SIDE Z ROOF",
-            "value": "SIDE Z ROOF 4"
+            "value": "SIDE Z ROOF 5"
         },
         {
             "trait_type": "WINDOW OVERLAY X",
-            "value": "overlay 6-1"
-        },
-        {
-            "trait_type": "WINDOWS X",
-            "value": "windows 3-2"
+            "value": "overlay 1-4"
         },
         {
             "trait_type": "SIDE X TOP",
@@ -26,11 +18,11 @@
         },
         {
             "trait_type": "SIDE X WINDOW BASE",
-            "value": "SIDE X WINDOW BASE 4-2"
+            "value": "SIDE X WINDOW BASE 2-1"
         },
         {
             "trait_type": "SIDE X",
-            "value": "SIDE X 6"
+            "value": "SIDE X 1"
         },
         {
             "trait_type": "SIDE Y SPECIAL",
@@ -50,15 +42,19 @@
         },
         {
             "trait_type": "SIDE Y FLUFF",
-            "value": "FLUFF-1-1"
+            "value": "layer 1"
         },
         {
             "trait_type": "SIDE Y BACKDOOR",
-            "value": "backdoor 1"
+            "value": "backdoor 4"
         },
         {
             "trait_type": "SIDE Y",
-            "value": "SIDE Y-3-1"
+            "value": "SIDE Y-1-2"
+        },
+        {
+            "trait_type": "WINDOWS X",
+            "value": "windows 6-6"
         }
     ]
 }
