@@ -40,28 +40,28 @@
       "values": ["SIDE X WINDOW BASE 1-1","SIDE X WINDOW BASE 1-2","SIDE X WINDOW BASE 1","SIDE X WINDOW BASE 2-1","SIDE X WINDOW BASE 2-2","SIDE X WINDOW BASE 2","SIDE X WINDOW BASE 3-1","SIDE X WINDOW BASE 3-2","SIDE X WINDOW BASE 3","SIDE X WINDOW BASE 4-1","SIDE X WINDOW BASE 4-2","SIDE X WINDOW BASE 4"],
       "trait_path": "./trait-layers/SIDE X WINDOW BASE",
       "filename": ["SIDE X WINDOW BASE 1-1.png","SIDE X WINDOW BASE 1-2.png","SIDE X WINDOW BASE 1.png","SIDE X WINDOW BASE 2-1.png","SIDE X WINDOW BASE 2-2.png","SIDE X WINDOW BASE 2.png","SIDE X WINDOW BASE 3-1.png","SIDE X WINDOW BASE 3-2.png","SIDE X WINDOW BASE 3.png","SIDE X WINDOW BASE 4-1.png","SIDE X WINDOW BASE 4-2.png","SIDE X WINDOW BASE 4.png"],
-      "weights": [50, 50]
+      "weights": [8,8,8,8,8,8,8,8,9,9,9,9]
     },
     {
       "name": "SIDE X",
       "values": ["SIDE X 1","SIDE X 2","SIDE X 3-1","SIDE X 3-2","SIDE X 3","SIDE X 4","SIDE X 5-1","SIDE X 5-2","SIDE X 5","SIDE X 6","SIDE X 7","SIDE Y 8-1","SIDE Y 8-2","SIDE Y 8"],
       "trait_path": "./trait-layers/SIDE X",
       "filename": ["SIDE X 1.png","SIDE X 2.png","SIDE X 3-1.png","SIDE X 3-2.png","SIDE X 3.png","SIDE X 4.png","SIDE X 5-1.png","SIDE X 5-2.png","SIDE X 5.png","SIDE X 6.png","SIDE X 7.png","SIDE Y 8-1.png","SIDE Y 8-2.png","SIDE Y 8.png"],
-      "weights": [50, 50]
+      "weights": [7,7,7,7,7,7,7,7,7,7,7,7,8,8]
     },
     {
       "name": "SIDE Y SPECIAL",
       "values": ["SIDE Y SPECIAL 2","SIDE Y SPECIAL","SPECIAL Y SPECIAL 1"],
       "trait_path": "./trait-layers/SIDE Y SPECIAL",
       "filename": ["SIDE Y SPECIAL 2.png","SIDE Y SPECIAL.png","SPECIAL Y SPECIAL 1.png"],
-      "weights": [50, 50]
+      "weights": [33,33,34]
     },
     {
       "name": "SIDE Y TOP",
       "values": ["row-33-column-1"],
       "trait_path": "./trait-layers/SIDE Y TOP",
       "filename": ["row-33-column-1.png"],
-      "weights": [50, 50]
+      "weights": [100]
     },
     {
       "name": "SIDE Y WINDOWS",
@@ -75,40 +75,34 @@
       "values": ["BALCONY 1","BALCONY 2","BALCONY 3"],
       "trait_path": "./trait-layers/SIDE Y BALCONY",
       "filename": ["BALCONY 1.png","BALCONY 2.png","BALCONY 3.png"],
-      "weights": [50, 50]
+      "weights": [33,33,34]
     },
     {
       "name": "SIDE Y FLUFF",
       "values": ["FLUFF 2","FLUFF 3","FLUFF-1-1","FLUFF-1","layer 1"],
       "trait_path": "./trait-layers/SIDE Y FLUFF",
       "filename": ["FLUFF 2.png","FLUFF 3.png","FLUFF-1-1.png","FLUFF-1.png","layer 1.png"],
-      "weights": [50, 50]
+      "weights": [20,20,20,20,20]
     },
     {
       "name": "SIDE Y BACKDOOR",
       "values": ["backdoor 1","backdoor 2","backdoor 3","backdoor 4","backdoor 5"],
       "trait_path": "./trait-layers/SIDE Y BACKDOOR",
       "filename": ["backdoor 1.png","backdoor 2.png","backdoor 3.png","backdoor 4.png","backdoor 5.png"],
-      "weights": [50, 50]
+      "weights": [20,20,20,20,20]
     },
     {
       "name": "SIDE Y",
       "values": ["SIDE Y-1-1","SIDE Y-1-2","SIDE Y-1","SIDE Y-2-1","SIDE Y-2-2","SIDE Y-2","SIDE Y-3-1","SIDE Y-3-2","SIDE Y-3","SIDE Y-4-1","SIDE Y-4-2","SIDE Y-4"],
       "trait_path": "./trait-layers/SIDE Y",
       "filename": ["SIDE Y-1-1.png","SIDE Y-1-2.png","SIDE Y-1.png","SIDE Y-2-1.png","SIDE Y-2-2.png","SIDE Y-2.png","SIDE Y-3-1.png","SIDE Y-3-2.png","SIDE Y-3.png","SIDE Y-4-1.png","SIDE Y-4-2.png","SIDE Y-4.png"],
-      "weights": [50, 50]
+      "weights": [8,8,8,8,8,8,8,8,9,9,9,9]
     }
     
   ],
   "incompatibilities": [
     {
-      "layer": "Background",
-      "value": "Blue",
-      "incompatible_with": ["Python Logo 2"],
-      "default": {
-        "value": "Default Incompatibility",
-        "filename": "./trait-layers/foreground/logo"
-      }
+
     }
   ],
   "baseURI": ".",
