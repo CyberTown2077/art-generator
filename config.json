@@ -2,117 +2,103 @@
   "layers": [
     {
       "name": "ADS_XYZ",
-      "values": ["ADS_XYZ", "Orange", "Purple", "Red", "Yellow"],
-      "trait_path": "./trait-layers/backgrounds",
-      "filename": ["blue", "orange", "purple", "red", "yellow"],
-      "weights": [20,20,20,20,20]
+      "values": ["SIDE_X_ADS_1", "SIDE_X_ADS_2_1", "SIDE_X_ADS_2", "SIDE_X_ADS_3_1", "SIDE_X_ADS_3_2", "SIDE_X_ADS_3", "SIDE_X_ADS_4", "SIDE_X_ADS_5", "SIDE_X_ADS_6", "SIDE_X_ADS_7_1", "SIDE_X_ADS_7", "SIDE_X_ADS_8", "SIDE_X_ADS_9", "SIDE_X_ADS_10", "SIDE_X_ADS_11", "SIDE_X_ADS_12", "SIDE_X_ADS_13", "SIDE_Y_ADS_1"],
+      "trait_path": "./trait-layers/ADS_XYZ",
+      "filename": ["SIDE_X_ADS_1.png", "SIDE_X_ADS_2_1.png", "SIDE_X_ADS_2.png", "SIDE_X_ADS_3_1.png", "SIDE_X_ADS_3_2.png", "SIDE_X_ADS_3.png", "SIDE_X_ADS_4.png", "SIDE_X_ADS_5.png", "SIDE_X_ADS_6.png", "SIDE_X_ADS_7_1.png", "SIDE_X_ADS_7.png", "SIDE_X_ADS_8.png", "SIDE_X_ADS_9.png", "SIDE_X_ADS_10.png", "SIDE_X_ADS_11.png", "SIDE_X_ADS_12.png", "SIDE_X_ADS_13.png", "SIDE_Y_ADS_1.png"],
+      "weights": [5,5,5,5,5,5,5,5,6,6,6,6,6,6,6,6,6,6]
     },
     {
       "name": "SIDE Z ROOF",
-      "values": ["Python Logo", "Python Logo 2", "Python Logo 3", "Python Logo 4", "Python Logo 5"],
-      "trait_path": "./trait-layers/foreground",
-      "filename": ["logo", "logo", "logo", "logo", "logo"],
+      "values": ["SIDE Z ROOF 1-1","SIDE Z ROOF 1-2","SIDE Z ROOF 1","SIDE Z ROOF 2-1","SIDE Z ROOF 2-2","SIDE Z ROOF 2","SIDE Z ROOF 3-1","SIDE Z ROOF 3-2","SIDE Z ROOF 3","SIDE Z ROOF 4-1","SIDE Z ROOF 4-2","SIDE Z ROOF 4","SIDE Z ROOF 5-1","SIDE Z ROOF 5-2","SIDE Z ROOF 5"],
+      "trait_path": "./trait-layers/SIDE Z ROOF",
+      "filename": ["SIDE Z ROOF 1-1.png","SIDE Z ROOF 1-2.png","SIDE Z ROOF 1.png","SIDE Z ROOF 2-1.png","SIDE Z ROOF 2-2.png","SIDE Z ROOF 2.png","SIDE Z ROOF 3-1.png","SIDE Z ROOF 3-2.png","SIDE Z ROOF 3.png","SIDE Z ROOF 4-1.png","SIDE Z ROOF 4-2.png","SIDE Z ROOF 4.png","SIDE Z ROOF 5-1.png","SIDE Z ROOF 5-2.png","SIDE Z ROOF 5.png"],
       "weights": [20,20,20,20,20]
     },
     {
       "name": "WINDOW OVERLAY X",
-      "values": ["A Name", "Another Name"],
-      "trait_path": "./trait-layers/text",
-      "filename": ["text", "text"],
+      "values": ["overlay 1-1","overlay 1-2","overlay 1-3","overlay 1-4","overlay 1","overlay 2-1","overlay 2-2","overlay 2-3","overlay 2-4","overlay 2","overlay 3-1","overlay 3-2","overlay 3-3","overlay 3-4","overlay 3","overlay 4-1","overlay 4-2","overlay 4-3","overlay 4-4","overlay 5-1","overlay 5-2","overlay 5-3","overlay 5-4","overlay 6-1","overlay 6-2","overlay 6-3","overlay 6-4"],
+      "trait_path": "./trait-layers/WINDOW OVERLAY X",
+      "filename": ["overlay 1-1.png","overlay 1-2.png","overlay 1-3.png","overlay 1-4.png","overlay 1.png","overlay 2-1.png","overlay 2-2.png","overlay 2-3.png","overlay 2-4.png","overlay 2.png","overlay 3-1.png","overlay 3-2.png","overlay 3-3.png","overlay 3-4.png","overlay 3.png","overlay 4-1.png","overlay 4-2.png","overlay 4-3.png","overlay 4-4.png","overlay 5-1.png","overlay 5-2.png","overlay 5-3.png","overlay 5-4.png","overlay 6-1.png","overlay 6-2.png","overlay 6-3.png","overlay 6-4.png"],
       "weights": [50, 50]
     },
     {
       "name": "WINDOW X",
-      "values": ["A Name", "Another Name"],
-      "trait_path": "./trait-layers/text",
-      "filename": ["text", "text"],
+      "values": ["windows 1-1","windows 1-2","windows 1-3","windows 1-4","windows 1-5","windows 1-6","windows 1-7","windows 2-1","windows 2-2","windows 2-3","windows 2-4","windows 2-5","windows 2-6","windows 2-7","windows 3-1","windows 3-2","windows 3-3","windows 3-4","windows 3-5","windows 3-6","windows 3-7","windows 3-8","windows 4-1","windows 4-2","windows 4-3","windows 4-4","windows 4-5","windows 4-6","windows 4-7","windows 5-1","windows 5-2","windows 5-3","windows 5-4","windows 5-5","windows 5-6","windows 5-7","windows 6-1","windows 6-2","windows 6-3","windows 6-4","windows 6-5","windows 6-6","windows 6-7","windows 6-8"],
+      "trait_path": "./trait-layers/WINDOW X",
+      "filename": ["windows 1-1.png","windows 1-2.png","windows 1-3.png","windows 1-4.png","windows 1-5.png","windows 1-6.png","windows 1-7.png","windows 2-1.png","windows 2-2.png","windows 2-3.png","windows 2-4.png","windows 2-5.png","windows 2-6.png","windows 2-7.png","windows 3-1.png","windows 3-2.png","windows 3-3.png","windows 3-4.png","windows 3-5.png","windows 3-6.png","windows 3-7.png","windows 3-8.png","windows 4-1.png","windows 4-2.png","windows 4-3.png","windows 4-4.png","windows 4-5.png","windows 4-6.png","windows 4-7.png","windows 5-1.png","windows 5-2.png","windows 5-3.png","windows 5-4.png","windows 5-5.png","windows 5-6.png","windows 5-7.png","windows 6-1.png","windows 6-2.png","windows 6-3.png","windows 6-4.png","windows 6-5.png","windows 6-6.png","windows 6-7.png","windows 6-8.png"],
       "weights": [50, 50]
     },
     {
       "name": "SIDE X TOP",
-      "values": ["A Name", "Another Name"],
-      "trait_path": "./trait-layers/text",
-      "filename": ["text", "text"],
+      "values": ["row-63-column-1"],
+      "trait_path": "./trait-layers/SIDE X TOP",
+      "filename": ["row-63-column-1.png"],
       "weights": [50, 50]
     },
     {
       "name": "SIDE X WINDOW BASE",
-      "values": ["A Name", "Another Name"],
-      "trait_path": "./trait-layers/text",
-      "filename": ["text", "text"],
+      "values": ["SIDE X WINDOW BASE 1-1","SIDE X WINDOW BASE 1-2","SIDE X WINDOW BASE 1","SIDE X WINDOW BASE 2-1","SIDE X WINDOW BASE 2-2","SIDE X WINDOW BASE 2","SIDE X WINDOW BASE 3-1","SIDE X WINDOW BASE 3-2","SIDE X WINDOW BASE 3","SIDE X WINDOW BASE 4-1","SIDE X WINDOW BASE 4-2","SIDE X WINDOW BASE 4"],
+      "trait_path": "./trait-layers/SIDE X WINDOW BASE",
+      "filename": ["SIDE X WINDOW BASE 1-1.png","SIDE X WINDOW BASE 1-2.png","SIDE X WINDOW BASE 1.png","SIDE X WINDOW BASE 2-1.png","SIDE X WINDOW BASE 2-2.png","SIDE X WINDOW BASE 2.png","SIDE X WINDOW BASE 3-1.png","SIDE X WINDOW BASE 3-2.png","SIDE X WINDOW BASE 3.png","SIDE X WINDOW BASE 4-1.png","SIDE X WINDOW BASE 4-2.png","SIDE X WINDOW BASE 4.png"],
       "weights": [50, 50]
     },
     {
       "name": "SIDE X",
-      "values": ["A Name", "Another Name"],
-      "trait_path": "./trait-layers/text",
-      "filename": ["text", "text"],
+      "values": ["SIDE X 1","SIDE X 2","SIDE X 3-1","SIDE X 3-2","SIDE X 3","SIDE X 4","SIDE X 5-1","SIDE X 5-2","SIDE X 5","SIDE X 6","SIDE X 7","SIDE Y 8-1","SIDE Y 8-2","SIDE Y 8"],
+      "trait_path": "./trait-layers/SIDE X",
+      "filename": ["SIDE X 1.png","SIDE X 2.png","SIDE X 3-1.png","SIDE X 3-2.png","SIDE X 3.png","SIDE X 4.png","SIDE X 5-1.png","SIDE X 5-2.png","SIDE X 5.png","SIDE X 6.png","SIDE X 7.png","SIDE Y 8-1.png","SIDE Y 8-2.png","SIDE Y 8.png"],
       "weights": [50, 50]
     },
     {
       "name": "SIDE Y SPECIAL",
-      "values": ["A Name", "Another Name"],
-      "trait_path": "./trait-layers/text",
-      "filename": ["text", "text"],
+      "values": ["SIDE Y SPECIAL 2","SIDE Y SPECIAL","SPECIAL Y SPECIAL 1"],
+      "trait_path": "./trait-layers/SIDE Y SPECIAL",
+      "filename": ["SIDE Y SPECIAL 2.png","SIDE Y SPECIAL.png","SPECIAL Y SPECIAL 1.png"],
       "weights": [50, 50]
     },
     {
       "name": "SIDE Y TOP",
-      "values": ["A Name", "Another Name"],
-      "trait_path": "./trait-layers/text",
-      "filename": ["text", "text"],
+      "values": ["row-33-column-1"],
+      "trait_path": "./trait-layers/SIDE Y TOP",
+      "filename": ["row-33-column-1.png"],
       "weights": [50, 50]
     },
     {
       "name": "SIDE Y WINDOWS",
-      "values": ["A Name", "Another Name"],
-      "trait_path": "./trait-layers/text",
-      "filename": ["text", "text"],
+      "values": ["SIDE Y WINDOWS 1","SIDE Y WINDOWS 2"],
+      "trait_path": "./trait-layers/SIDE Y WINDOWS",
+      "filename": ["SIDE Y WINDOWS 1.png","SIDE Y WINDOWS 2.png"],
       "weights": [50, 50]
     },
     {
       "name": "SIDE Y BALCONY",
-      "values": ["A Name", "Another Name"],
-      "trait_path": "./trait-layers/text",
-      "filename": ["text", "text"],
+      "values": ["BALCONY 1","BALCONY 2","BALCONY 3"],
+      "trait_path": "./trait-layers/SIDE Y BALCONY",
+      "filename": ["BALCONY 1.png","BALCONY 2.png","BALCONY 3.png"],
       "weights": [50, 50]
     },
     {
       "name": "SIDE Y FLUFF",
-      "values": ["A Name", "Another Name"],
-      "trait_path": "./trait-layers/text",
-      "filename": ["text", "text"],
+      "values": ["FLUFF 2","FLUFF 3","FLUFF-1-1","FLUFF-1","layer 1"],
+      "trait_path": "./trait-layers/SIDE Y FLUFF",
+      "filename": ["FLUFF 2.png","FLUFF 3.png","FLUFF-1-1.png","FLUFF-1.png","layer 1.png"],
       "weights": [50, 50]
     },
     {
       "name": "SIDE Y BACKDOOR",
-      "values": ["A Name", "Another Name"],
-      "trait_path": "./trait-layers/text",
-      "filename": ["text", "text"],
+      "values": ["backdoor 1","backdoor 2","backdoor 3","backdoor 4","backdoor 5"],
+      "trait_path": "./trait-layers/SIDE Y BACKDOOR",
+      "filename": ["backdoor 1.png","backdoor 2.png","backdoor 3.png","backdoor 4.png","backdoor 5.png"],
       "weights": [50, 50]
     },
     {
       "name": "SIDE Y",
-      "values": ["A Name", "Another Name"],
-      "trait_path": "./trait-layers/text",
-      "filename": ["text", "text"],
-      "weights": [50, 50]
-    },
-    {
-      "name": "BASE",
-      "values": ["A Name", "Another Name"],
-      "trait_path": "./trait-layers/text",
-      "filename": ["text", "text"],
-      "weights": [50, 50]
-    },
-    {
-      "name": "BACKGROUND",
-      "values": ["A Name", "Another Name"],
-      "trait_path": "./trait-layers/text",
-      "filename": ["text", "text"],
+      "values": ["SIDE Y-1-1","SIDE Y-1-2","SIDE Y-1","SIDE Y-2-1","SIDE Y-2-2","SIDE Y-2","SIDE Y-3-1","SIDE Y-3-2","SIDE Y-3","SIDE Y-4-1","SIDE Y-4-2","SIDE Y-4"],
+      "trait_path": "./trait-layers/SIDE Y",
+      "filename": ["SIDE Y-1-1.png","SIDE Y-1-2.png","SIDE Y-1.png","SIDE Y-2-1.png","SIDE Y-2-2.png","SIDE Y-2.png","SIDE Y-3-1.png","SIDE Y-3-2.png","SIDE Y-3.png","SIDE Y-4-1.png","SIDE Y-4-2.png","SIDE Y-4.png"],
       "weights": [50, 50]
     }
-
+    
   ],
   "incompatibilities": [
     {
