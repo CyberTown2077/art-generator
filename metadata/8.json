@@ -1,0 +1,64 @@
+{
+    "image": "./images/8.png",
+    "tokenId": 8,
+    "name": "NFT #08",
+    "description": "This is a description for this NFT series.",
+    "attributes": [
+        {
+            "trait_type": "ADS_XYZ",
+            "value": "SIDE_X_ADS_3_1"
+        },
+        {
+            "trait_type": "SIDE Z ROOF",
+            "value": "SIDE Z ROOF 5"
+        },
+        {
+            "trait_type": "WINDOW OVERLAY X",
+            "value": "overlay 2-3"
+        },
+        {
+            "trait_type": "WINDOWS X",
+            "value": "windows 6-1"
+        },
+        {
+            "trait_type": "SIDE X TOP",
+            "value": "row-63-column-1"
+        },
+        {
+            "trait_type": "SIDE X WINDOW BASE",
+            "value": "SIDE X WINDOW BASE 1-1"
+        },
+        {
+            "trait_type": "SIDE X",
+            "value": "SIDE X 6"
+        },
+        {
+            "trait_type": "SIDE Y SPECIAL",
+            "value": "SPECIAL Y SPECIAL 1"
+        },
+        {
+            "trait_type": "SIDE Y TOP",
+            "value": "row-33-column-1"
+        },
+        {
+            "trait_type": "SIDE Y WINDOWS",
+            "value": "SIDE Y WINDOWS 1"
+        },
+        {
+            "trait_type": "SIDE Y BALCONY",
+            "value": "BALCONY 2"
+        },
+        {
+            "trait_type": "SIDE Y FLUFF",
+            "value": "FLUFF-1-1"
+        },
+        {
+            "trait_type": "SIDE Y BACKDOOR",
+            "value": "backdoor 5"
+        },
+        {
+            "trait_type": "SIDE Y",
+            "value": "SIDE Y-1-1"
+        }
+    ]
+}
