@@ -1,0 +1,118 @@
+{
+      "Texture 1":[
+            {
+                  "name": "SIDE X",
+                  "values": ["SIDE X 1","SIDE X 2","SIDE X 3","SIDE X 4","SIDE X 5","SIDE X 6","SIDE X 7","SIDE Y 8-1"],
+                  "trait_path": "./trait-layers/SIDE X",
+                  "filename": ["SIDE X 1","SIDE X 2","SIDE X 3","SIDE X 4","SIDE X 5","SIDE X 6","SIDE X 7","SIDE Y 8-1"],
+                  "weights": [12,12,12,12,13,13,13,13]
+            },
+            {
+                  "name": "SIDE X WINDOW BASE",
+                  "values": ["SIDE X WINDOW BASE 1","SIDE X WINDOW BASE 2","SIDE X WINDOW BASE 3","SIDE X WINDOW BASE 4"],
+                  "trait_path": "./trait-layers/SIDE X WINDOW BASE",
+                  "filename": ["SIDE X WINDOW BASE 1","SIDE X WINDOW BASE 2","SIDE X WINDOW BASE 3","SIDE X WINDOW BASE 4"],
+                  "weights": [25,25,25,25]
+            },
+            {
+                  "name": "SIDE Y",
+                  "values": ["SIDE Y-1","SIDE Y-2","SIDE Y-3","SIDE Y-4"],
+                  "trait_path": "./trait-layers/SIDE Y",
+                  "filename": ["SIDE Y-1","SIDE Y-2","SIDE Y-3","SIDE Y-4"],
+                  "weights": [25,25,25,25]
+            },
+            {
+                  "name": "SIDE Y SPECIAL",
+                  "values": ["SIDE Y SPECIAL"],
+                  "trait_path": "./trait-layers/SIDE Y SPECIAL",
+                  "filename": ["SIDE Y SPECIAL"],
+                  "weights": [100]
+            },
+            {
+                  "name": "SIDE Z ROOF",
+                  "values": ["SIDE Z ROOF 1","SIDE Z ROOF 2","SIDE Z ROOF 3","SIDE Z ROOF 4","SIDE Z ROOF 5"],
+                  "trait_path": "./trait-layers/SIDE Z ROOF",
+                  "filename": ["SIDE Z ROOF 1","SIDE Z ROOF 2","SIDE Z ROOF 3","SIDE Z ROOF 4","SIDE Z ROOF 5"],
+                  "weights": [20,20,20,20,20]
+            }
+      ],
+      "Texture 2":[
+            {
+                  "name": "SIDE X",
+                  "values": ["SIDE X 3-1","SIDE X 5-1","SIDE Y 8"],
+                  "trait_path": "./trait-layers/SIDE X",
+                  "filename": ["SIDE X 3-1","SIDE X 5-1","SIDE Y 8"],
+                  "weights": [33,33,34]
+            },
+            {
+                  "name": "SIDE X WINDOW BASE",
+                  "values": ["SIDE X WINDOW BASE 1-1","SIDE X WINDOW BASE 2-1","SIDE X WINDOW BASE 3-2","SIDE X WINDOW BASE 4-1"],
+                  "trait_path": "./trait-layers/SIDE X WINDOW BASE",
+                  "filename": ["SIDE X WINDOW BASE 1-1","SIDE X WINDOW BASE 2-1","SIDE X WINDOW BASE 3-2","SIDE X WINDOW BASE 4-1"],
+                  "weights": [25,25,25,25]
+            },
+            {
+                  "name": "SIDE Y",
+                  "values": ["SIDE Y-1-2","SIDE Y-2-1","SIDE Y-3-1","SIDE Y-4-1"],
+                  "trait_path": "./trait-layers/SIDE Y",
+                  "filename": ["SIDE Y-1-2","SIDE Y-2-1","SIDE Y-3-1","SIDE Y-4-1"],
+                  "weights": [25,25,25,25]
+            },
+            {
+                  "name": "SIDE Y SPECIAL",
+                  "values": ["SPECIAL Y SPECIAL 1"],
+                  "trait_path": "./trait-layers/SIDE Y SPECIAL",
+                  "filename": ["SPECIAL Y SPECIAL 1"],
+                  "weights": [100]
+            },
+            {
+                  "name": "SIDE Z ROOF",
+                  "values": ["SIDE Z ROOF 1-1","SIDE Z ROOF 2-1","SIDE Z ROOF 3-1","SIDE Z ROOF 4-1","SIDE Z ROOF 5-1"],
+                  "trait_path": "./trait-layers/SIDE Z ROOF",
+                  "filename": ["SIDE Z ROOF 1-1","SIDE Z ROOF 2-1","SIDE Z ROOF 3-1","SIDE Z ROOF 4-1","SIDE Z ROOF 5-1"],
+                  "weights": [20,20,20,20,20]
+            }
+      ],
+      "Texture 3":[
+            {
+                  "name": "SIDE X",
+                  "values": ["SIDE X 3-2","SIDE X 5-2","SIDE Y 8-2"],
+                  "trait_path": "./trait-layers/SIDE X",
+                  "filename": ["SIDE X 3-2","SIDE X 5-2","SIDE Y 8-2"],
+                  "weights": [33,33,34]
+            },
+            {
+                  "name": "SIDE X WINDOW BASE",
+                  "values": ["SIDE X WINDOW BASE 1-2","SIDE X WINDOW BASE 2-2","SIDE X WINDOW BASE 3-1","SIDE X WINDOW BASE 4-2"],
+                  "trait_path": "./trait-layers/SIDE X WINDOW BASE",
+                  "filename": ["SIDE X WINDOW BASE 1-2","SIDE X WINDOW BASE 2-2","SIDE X WINDOW BASE 3-1","SIDE X WINDOW BASE 4-2"],
+                  "weights": [25,25,25,25]
+            },
+            {
+                  "name": "SIDE Y",
+                  "values": ["SIDE Y-1-1","SIDE Y-2-2","SIDE Y-3-2","SIDE Y-4-2"],
+                  "trait_path": "./trait-layers/SIDE Y",
+                  "filename": ["SIDE Y-1-1","SIDE Y-2-2","SIDE Y-3-2","SIDE Y-4-2"],
+                  "weights": [25,25,25,25]
+            },
+            {
+                  "name": "SIDE Y SPECIAL",
+                  "values": ["SIDE Y SPECIAL 2"],
+                  "trait_path": "./trait-layers/SIDE Y SPECIAL",
+                  "filename": ["SIDE Y SPECIAL 2"],
+                  "weights": [100]
+            },
+            {
+                  "name": "SIDE Z ROOF",
+                  "values": ["SIDE Z ROOF 1-2","SIDE Z ROOF 2-2","SIDE Z ROOF 3-2","SIDE Z ROOF 4-2","SIDE Z ROOF 5-2"],
+                  "trait_path": "./trait-layers/SIDE Z ROOF",
+                  "filename": ["SIDE Z ROOF 1-2","SIDE Z ROOF 2-2","SIDE Z ROOF 3-2","SIDE Z ROOF 4-2","SIDE Z ROOF 5-2"],
+                  "weights": [20,20,20,20,20]
+            }
+      ]
+}
+
+
+
+
+
