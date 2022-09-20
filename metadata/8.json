@@ -6,15 +6,31 @@
     "attributes": [
         {
             "trait_type": "SIDE Z ROOF",
-            "value": "SIDE Z ROOF 2"
+            "value": "SIDE Z ROOF 5"
         },
         {
-            "trait_type": "WINDOW OVERLAY X",
-            "value": "overlay 2-2"
+            "trait_type": "WINDOW OVERLAY X 1",
+            "value": "overlay 1-1"
         },
         {
-            "trait_type": "SIDE X TOP",
-            "value": "row-63-column-1"
+            "trait_type": "WINDOW OVERLAY X 2",
+            "value": "overlay 2-1"
+        },
+        {
+            "trait_type": "WINDOW OVERLAY X 3",
+            "value": "overlay 3-1"
+        },
+        {
+            "trait_type": "WINDOW OVERLAY X 4",
+            "value": "overlay 4-1"
+        },
+        {
+            "trait_type": "WINDOW OVERLAY X 5",
+            "value": "overlay 5-1"
+        },
+        {
+            "trait_type": "WINDOW OVERLAY X 6",
+            "value": "overlay 6-1"
         },
         {
             "trait_type": "SIDE X WINDOW BASE",
@@ -22,15 +38,11 @@
         },
         {
             "trait_type": "SIDE X",
-            "value": "SIDE Y 8"
+            "value": "SIDE X 6"
         },
         {
             "trait_type": "SIDE Y SPECIAL",
-            "value": "SIDE Y SPECIAL 2"
-        },
-        {
-            "trait_type": "SIDE Y TOP",
-            "value": "row-33-column-1"
+            "value": "SIDE Y SPECIAL"
         },
         {
             "trait_type": "SIDE Y WINDOWS",
@@ -38,23 +50,43 @@
         },
         {
             "trait_type": "SIDE Y BALCONY",
-            "value": "BALCONY 3"
+            "value": "BALCONY 1"
         },
         {
             "trait_type": "SIDE Y FLUFF",
-            "value": "FLUFF-1-1"
+            "value": "FLUFF 3"
         },
         {
             "trait_type": "SIDE Y BACKDOOR",
-            "value": "backdoor 1"
+            "value": "backdoor 4"
         },
         {
             "trait_type": "SIDE Y",
-            "value": "SIDE Y-4"
+            "value": "SIDE Y-3"
         },
         {
-            "trait_type": "WINDOWS X",
-            "value": "windows 2-2"
+            "trait_type": "WINDOWS X 1",
+            "value": "windows 1-1"
+        },
+        {
+            "trait_type": "WINDOWS X 2",
+            "value": "windows 2-1"
+        },
+        {
+            "trait_type": "WINDOWS X 3",
+            "value": "windows 3-1"
+        },
+        {
+            "trait_type": "WINDOWS X 4",
+            "value": "windows 4-1"
+        },
+        {
+            "trait_type": "WINDOWS X 5",
+            "value": "windows 5-1"
+        },
+        {
+            "trait_type": "WINDOWS X 6",
+            "value": "windows 6-1"
         }
     ]
 }

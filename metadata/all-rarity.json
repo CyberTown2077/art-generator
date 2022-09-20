@@ -1,116 +1,135 @@
 [
     {
         "SIDE Z ROOF": {
-            "SIDE Z ROOF 4-1": 3,
-            "SIDE Z ROOF 1": 1,
-            "SIDE Z ROOF 3-1": 1,
-            "SIDE Z ROOF 2": 2,
-            "SIDE Z ROOF 5": 1,
-            "SIDE Z ROOF 1-2": 1,
-            "SIDE Z ROOF 2-2": 1
+            "SIDE Z ROOF 5": 10,
+            "SIDE Z ROOF 4": 4,
+            "SIDE Z ROOF 2": 10,
+            "SIDE Z ROOF 1": 4,
+            "SIDE Z ROOF 3": 2
         }
     },
     {
-        "WINDOW OVERLAY X": {
-            "overlay 1-1": 1,
-            "overlay 6-3": 1,
-            "overlay 4-1": 1,
-            "overlay 3-4": 1,
-            "overlay 2-3": 1,
-            "overlay 4-2": 1,
-            "overlay 1-4": 1,
-            "overlay 2-2": 1,
-            "overlay 5-3": 1,
-            "overlay 4-3": 1
+        "WINDOW OVERLAY X 1": {
+            "overlay 1-1": 30
         }
     },
     {
-        "SIDE X TOP": {
-            "row-63-column-1": 10
+        "WINDOW OVERLAY X 2": {
+            "overlay 2-1": 30
+        }
+    },
+    {
+        "WINDOW OVERLAY X 3": {
+            "overlay 3-1": 30
+        }
+    },
+    {
+        "WINDOW OVERLAY X 4": {
+            "overlay 4-1": 30
+        }
+    },
+    {
+        "WINDOW OVERLAY X 5": {
+            "overlay 5-1": 30
+        }
+    },
+    {
+        "WINDOW OVERLAY X 6": {
+            "overlay 6-1": 30
         }
     },
     {
         "SIDE X WINDOW BASE": {
-            "SIDE X WINDOW BASE 2-1": 3,
-            "SIDE X WINDOW BASE 1-1": 2,
-            "SIDE X WINDOW BASE 2": 1,
-            "SIDE X WINDOW BASE 4-1": 1,
-            "SIDE X WINDOW BASE 3": 1,
-            "SIDE X WINDOW BASE 1": 2
+            "SIDE X WINDOW BASE 1": 7,
+            "SIDE X WINDOW BASE 3": 6,
+            "SIDE X WINDOW BASE 4": 10,
+            "SIDE X WINDOW BASE 2": 7
         }
     },
     {
         "SIDE X": {
-            "SIDE X 1": 2,
-            "SIDE X 4": 1,
-            "SIDE X 7": 3,
-            "SIDE Y 8-2": 1,
-            "SIDE X 5": 1,
-            "SIDE Y 8": 1,
-            "SIDE X 3-2": 1
+            "SIDE X 7": 4,
+            "SIDE X 2": 4,
+            "SIDE X 5": 6,
+            "SIDE X 1": 3,
+            "SIDE X 4": 2,
+            "SIDE X 6": 7,
+            "SIDE Y 8-1": 2,
+            "SIDE X 3": 2
         }
     },
     {
         "SIDE Y SPECIAL": {
-            "SIDE Y SPECIAL": 6,
-            "SIDE Y SPECIAL 2": 4
-        }
-    },
-    {
-        "SIDE Y TOP": {
-            "row-33-column-1": 10
+            "SIDE Y SPECIAL": 30
         }
     },
     {
         "SIDE Y WINDOWS": {
-            "SIDE Y WINDOWS 2": 5,
-            "SIDE Y WINDOWS 1": 5
+            "SIDE Y WINDOWS 1": 14,
+            "SIDE Y WINDOWS 2": 16
         }
     },
     {
         "SIDE Y BALCONY": {
-            "BALCONY 3": 5,
-            "BALCONY 1": 2,
-            "BALCONY 2": 3
+            "BALCONY 1": 16,
+            "BALCONY 3": 7,
+            "BALCONY 2": 7
         }
     },
     {
         "SIDE Y FLUFF": {
-            "FLUFF-1": 3,
-            "layer 1": 4,
-            "FLUFF 3": 2,
-            "FLUFF-1-1": 1
+            "FLUFF 2": 9,
+            "FLUFF-1-1": 5,
+            "FLUFF-1": 4,
+            "FLUFF 3": 5,
+            "FLUFF-4": 7
         }
     },
     {
         "SIDE Y BACKDOOR": {
-            "backdoor 1": 2,
-            "backdoor 5": 3,
-            "backdoor 3": 1,
-            "backdoor 2": 2,
-            "backdoor 4": 2
+            "backdoor 5": 4,
+            "backdoor 3": 8,
+            "backdoor 1": 6,
+            "backdoor 2": 9,
+            "backdoor 4": 3
         }
     },
     {
         "SIDE Y": {
-            "SIDE Y-1": 1,
-            "SIDE Y-2-2": 2,
-            "SIDE Y-2": 1,
-            "SIDE Y-1-2": 3,
-            "SIDE Y-3-2": 1,
-            "SIDE Y-4": 1,
-            "SIDE Y-3": 1
+            "SIDE Y-4": 8,
+            "SIDE Y-3": 7,
+            "SIDE Y-2": 8,
+            "SIDE Y-1": 7
         }
     },
     {
-        "WINDOWS X": {
-            "windows 2-5": 2,
-            "windows 6-6": 2,
-            "windows 1-5": 2,
-            "windows 6-7": 1,
-            "windows 6-5": 1,
-            "windows 2-2": 1,
-            "windows 3-5": 1
+        "WINDOWS X 1": {
+            "windows 1-1": 30
+        }
+    },
+    {
+        "WINDOWS X 2": {
+            "windows 2-1": 30
+        }
+    },
+    {
+        "WINDOWS X 3": {
+            "windows 3-1": 30
+        }
+    },
+    {
+        "WINDOWS X 4": {
+            "windows 4-1": 30
+        }
+    },
+    {
+        "WINDOWS X 5": {
+            "windows 5-1": 30
+        }
+    },
+    {
+        "WINDOWS X 6": {
+            "windows 6-1": 30
         }
     }
 ]
