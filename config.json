@@ -1,6 +1,13 @@
 {
   "layers": [
     {
+      "name": "BASE",
+      "values": ["BASE"],
+      "trait_path": "./trait-layers",
+      "filename": ["BASE"],
+      "weights": [100]
+    },
+    {
       "name": "SIDE Z ROOF",
       "values": ["SIDE Z ROOF 1","SIDE Z ROOF 2","SIDE Z ROOF 3","SIDE Z ROOF 4","SIDE Z ROOF 5"],
       "trait_path": "./trait-layers/SIDE Z ROOF/txt1",
@@ -50,7 +57,7 @@
       "filename": ["overlay 6-1"],
       "weights": [100]
     },
-
+    
     {
       "name": "SIDE X WINDOW BASE",
       "values": ["SIDE X WINDOW BASE 1","SIDE X WINDOW BASE 2","SIDE X WINDOW BASE 3","SIDE X WINDOW BASE 4"],
@@ -60,9 +67,9 @@
     },
     {
       "name": "SIDE X",
-      "values": ["SIDE X 1","SIDE X 2","SIDE X 3","SIDE X 4","SIDE X 5","SIDE X 6","SIDE X 7","SIDE Y 8-1"],
+      "values": ["SIDE X 1","SIDE X 2","SIDE X 3","SIDE X 4","SIDE X 5","SIDE X 6","SIDE X 7","SIDE X 8"],
       "trait_path": "./trait-layers/SIDE X/txt1",
-      "filename": ["SIDE X 1","SIDE X 2","SIDE X 3","SIDE X 4","SIDE X 5","SIDE X 6","SIDE X 7","SIDE Y 8-1"],
+      "filename": ["SIDE X 1","SIDE X 2","SIDE X 3","SIDE X 4","SIDE X 5","SIDE X 6","SIDE X 7","SIDE X 8"],
       "weights": [12,12,12,12,13,13,13,13]
     },
     {
@@ -72,7 +79,7 @@
       "filename": ["SIDE Y SPECIAL"],
       "weights": [100]
     },
-
+    
     {
       "name": "SIDE Y WINDOWS",
       "values": ["SIDE Y WINDOWS 1","SIDE Y WINDOWS 2"],
@@ -151,10 +158,10 @@
       "filename": ["windows 6-1"],
       "weights": [100]
     }
-
+    
   ],
   "incompatibilities": [
-
+    
   ],
   "baseURI": ".",
   "name": "NFT #",

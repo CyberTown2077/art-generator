@@ -5,6 +5,10 @@
     "description": "This is a description for this NFT series.",
     "attributes": [
         {
+            "trait_type": "BASE",
+            "value": "BASE"
+        },
+        {
             "trait_type": "SIDE Z ROOF",
             "value": "SIDE Z ROOF 5"
         },
@@ -34,11 +38,11 @@
         },
         {
             "trait_type": "SIDE X WINDOW BASE",
-            "value": "SIDE X WINDOW BASE 1"
+            "value": "SIDE X WINDOW BASE 2"
         },
         {
             "trait_type": "SIDE X",
-            "value": "SIDE X 7"
+            "value": "SIDE X 1"
         },
         {
             "trait_type": "SIDE Y SPECIAL",
@@ -46,23 +50,23 @@
         },
         {
             "trait_type": "SIDE Y WINDOWS",
-            "value": "SIDE Y WINDOWS 1"
+            "value": "SIDE Y WINDOWS 2"
         },
         {
             "trait_type": "SIDE Y BALCONY",
-            "value": "BALCONY 1"
+            "value": "BALCONY 3"
         },
         {
             "trait_type": "SIDE Y FLUFF",
-            "value": "FLUFF 2"
+            "value": "FLUFF-4"
         },
         {
             "trait_type": "SIDE Y BACKDOOR",
-            "value": "backdoor 5"
+            "value": "backdoor 4"
         },
         {
             "trait_type": "SIDE Y",
-            "value": "SIDE Y-4"
+            "value": "SIDE Y-3"
         },
         {
             "trait_type": "WINDOWS X 1",
