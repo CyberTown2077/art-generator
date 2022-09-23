@@ -115,7 +115,27 @@
       "filename": ["SIDE Y-1","SIDE Y-2","SIDE Y-3","SIDE Y-4"],
       "weights": [25,25,25,25]
     },
-    
+    {
+      "name": "ADS",
+      "values": ["SIDE_Y_9"],
+      "trait_path": "./trait-layers/ADS_XYZ/WALL_ADS_Y",
+      "filename": ["SIDE_Y_9"],
+      "weights": [100]
+    },
+    {
+      "name": "OVERLAY",
+      "values": ["overlay 1","overlay 2","overlay 3"],
+      "trait_path": "./trait-layers/WINDOW OVERLAY X/overlay 0",
+      "filename": ["overlay 1","overlay 2","overlay 3"],
+      "weights": [33,33,34]
+    },
+    {
+      "name": "ADS X",
+      "values": ["SIDE_X_15"],
+      "trait_path": "./trait-layers/ADS_XYZ/ROOF_ADS_X_LEFT",
+      "filename": ["SIDE_X_15"],
+      "weights": [100]
+    },
     {
       "name": "WINDOWS X 1",
       "values": ["windows 1-1"],
