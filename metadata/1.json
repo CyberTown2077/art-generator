@@ -10,7 +10,7 @@
         },
         {
             "trait_type": "SIDE Z ROOF",
-            "value": "SIDE Z ROOF 4"
+            "value": "SIDE Z ROOF 3"
         },
         {
             "trait_type": "WINDOW OVERLAY X 1",
@@ -38,7 +38,7 @@
         },
         {
             "trait_type": "SIDE X WINDOW BASE",
-            "value": "SIDE X WINDOW BASE 1"
+            "value": "SIDE X WINDOW BASE 2"
         },
         {
             "trait_type": "SIDE X",
@@ -50,31 +50,31 @@
         },
         {
             "trait_type": "SIDE Y WINDOWS",
-            "value": "SIDE Y WINDOWS 1"
+            "value": "SIDE Y WINDOWS 2"
         },
         {
             "trait_type": "SIDE Y BALCONY",
-            "value": "BALCONY 3"
+            "value": "BALCONY 2"
         },
         {
             "trait_type": "SIDE Y FLUFF",
             "value": "FLUFF-1"
         },
         {
-            "trait_type": "SIDE Y BACKDOOR",
-            "value": "backdoor 5"
+            "trait_type": "SIDE Y",
+            "value": "SIDE Y-1"
         },
         {
-            "trait_type": "SIDE Y",
-            "value": "SIDE Y-3"
+            "trait_type": "SIDE Y BACKDOOR",
+            "value": "backdoor 3"
         },
         {
             "trait_type": "ADS",
-            "value": "SIDE_Y_9"
+            "value": "SIDE_X_ADS_13"
         },
         {
             "trait_type": "OVERLAY",
-            "value": "overlay 2"
+            "value": "overlay 3"
         },
         {
             "trait_type": "ADS X",

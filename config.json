@@ -102,6 +102,13 @@
       "weights": [20,20,20,20,20]
     },
     {
+      "name": "SIDE Y",
+      "values": ["SIDE Y-1"],
+      "trait_path": "./trait-layers/SIDE Y/txt1",
+      "filename": ["SIDE Y-1"],
+      "weights": [100]
+    },
+    {
       "name": "SIDE Y BACKDOOR",
       "values": ["backdoor 1","backdoor 2","backdoor 3","backdoor 4","backdoor 5"],
       "trait_path": "./trait-layers/SIDE Y BACKDOOR",
@@ -109,17 +116,10 @@
       "weights": [20,20,20,20,20]
     },
     {
-      "name": "SIDE Y",
-      "values": ["SIDE Y-1","SIDE Y-2","SIDE Y-3","SIDE Y-4"],
-      "trait_path": "./trait-layers/SIDE Y/txt1",
-      "filename": ["SIDE Y-1","SIDE Y-2","SIDE Y-3","SIDE Y-4"],
-      "weights": [25,25,25,25]
-    },
-    {
       "name": "ADS",
-      "values": ["SIDE_Y_9"],
+      "values": ["SIDE_X_ADS_13"],
       "trait_path": "./trait-layers/ADS_XYZ/WALL_ADS_Y",
-      "filename": ["SIDE_Y_9"],
+      "filename": ["SIDE_X_ADS_13"],
       "weights": [100]
     },
     {
